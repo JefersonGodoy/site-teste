@@ -30,6 +30,7 @@ h2 {
     font-size: 1.5em;
     color: #F0D905;
     text-align: center;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.295);
 }
 
 p {
@@ -45,10 +46,16 @@ div {
 }
 
 audio {
-    background-color: #11C9F0;
+    background-color: #f1b966c5;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.466);
+    border-radius: 50px;
 }
 
 hr {
     text-decoration: none;
 }
 
+img {
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.466);
+    border-radius: 10px;
+}
