@@ -1,0 +1,36 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+body {
+    background-image: linear-gradient(to right, #1c54f0, #11c9f0);
+}
+
+main {
+    background-color: white;
+    margin: auto;
+    width: 600px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+}
+h1 {
+    font-size: 2em;
+    color: #F08C35;
+    text-align: center;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.295);
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #F0D905;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+a {
+    text-decoration: none;
+}
