@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
@@ -38,6 +40,10 @@ a {
     text-decoration: none;
 }
 
+div {
+    text-align: center;
+}
+
 audio {
     background-color: #11C9F0;
 }
@@ -46,6 +52,3 @@ hr {
     text-decoration: none;
 }
 
-source {
-    align-items: center;
-}
