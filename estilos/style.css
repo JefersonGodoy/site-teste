@@ -1,6 +1,7 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
+    padding: 10px;
 }
 
 body {
@@ -15,6 +16,7 @@ main {
     border-radius: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
 }
+
 h1 {
     font-size: 2em;
     color: #F08C35;
@@ -31,6 +33,11 @@ h2 {
 p {
     text-align: justify;
 }
+
 a {
     text-decoration: none;
+}
+
+audio {
+    background-color: #11C9F0;
 }
