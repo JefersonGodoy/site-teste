@@ -41,3 +41,11 @@ a {
 audio {
     background-color: #11C9F0;
 }
+
+hr {
+    text-decoration: none;
+}
+
+source {
+    align-items: center;
+}
